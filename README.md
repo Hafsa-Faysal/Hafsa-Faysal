@@ -1,4 +1,4 @@
-## Hi I am Hafsa!!
+## Hi I'm Hafsa!!
 - I’m exploring the tech field to figure out where I want to focus.
 - Right now I’m exploring cybersecurity and cloud
 - I’m strongest in Java and have worked a bit with C/C++ and HTML/CSS.
