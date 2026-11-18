@@ -3,7 +3,7 @@
 - Right now I’m exploring cybersecurity and cloud
 - I’m strongest in Java and have worked a bit with C/C++ and HTML/CSS. 
 <br><br>
-⚡ <b>Fun facts :</b><br>
+<b>⚡ Fun facts :</b><br>
 <ul>
   <li> My fav anime is my hero academia</li>
   <li> <b>Hobbies:</b> anime,reading, bullet journaling </li>
