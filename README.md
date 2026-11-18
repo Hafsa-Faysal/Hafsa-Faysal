@@ -1,10 +1,9 @@
 ## Hi I am Hafsa!!
-🔭 so i made an account...i think now i need to make projects<br>
 🌱 Currently i am learning whatever seems cool!<br><br>
 ⚡ <b>Fun facts :</b><br>
 <ul>
   <li> My fav anime is my hero academia</li>
-  <li><b>Hobbies:</b> anime,reading, journaling</li>
+  <li> <b>Hobbies:</b> anime,reading, bullet journaling </li>
 </ul>
 
 
