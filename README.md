@@ -1,9 +1,10 @@
 ## Hi I am Hafsa!!
 - I’m exploring the tech field to figure out where I want to focus.
 - Right now I’m exploring cybersecurity and cloud
-- I’m strongest in Java and have worked a bit with C/C++ and HTML/CSS. 
+- I’m strongest in Java and have worked a bit with C/C++ and HTML/CSS.
+<br>
+<b>⚡ Fun facts :</b>
 <br><br>
-<b>⚡ Fun facts :</b><br>
 <ul>
   <li> My fav anime is my hero academia</li>
   <li> <b>Hobbies:</b> anime,reading, bullet journaling </li>
