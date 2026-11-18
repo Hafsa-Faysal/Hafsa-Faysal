@@ -1,5 +1,8 @@
 ## Hi I am Hafsa!!
-🌱 Currently i am learning whatever seems cool!<br><br>
+- I’m exploring the tech field to figure out where I want to focus.
+- Right now I’m exploring cybersecurity and cloud
+- I’m strongest in Java and have worked a bit with C/C++ and HTML/CSS. 
+<br><br>
 ⚡ <b>Fun facts :</b><br>
 <ul>
   <li> My fav anime is my hero academia</li>
